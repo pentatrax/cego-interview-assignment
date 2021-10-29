@@ -1,2 +1,2 @@
-# cego-interview-assignment
-A solution to the CEGO interview assignment
+# Environment
+This is run using XAMPP running Apache, PHP and MySQL
