@@ -47,7 +47,7 @@ The main concern would be if anyone got ahold of the solution file after it has 
 
 Other than physical access to the file most security concernes i can think about are handled in the removal of bad characters from the query which stops SQL injections.
 
-The only real danger when it comes to remote access to the file would be ID brute forcing, although since the ID's contain the number of symbols that they do this highly unlikely to happen.
+The only real danger when it comes to remote access to the file would be ID brute forcing, although since the ID's contain the number of symbols that they do, this highly unlikely to happen.
 
 
 ## Next Steps
