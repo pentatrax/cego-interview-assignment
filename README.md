@@ -55,4 +55,6 @@ There are a few changes that could be made to the handling of the database detai
 
 You could also add a IP whitelist to the solution which would stop anyone not added to the whitelist from accessing it.
 
+Ultimately the solution should redirect you away from `host.com/archiveUsers.php`, to make sure people didn't tinker with the solution after use.
+
 *You can always overengineer it.*
